@@ -10,7 +10,7 @@ Download the repo and open the directory with MathWorks Matlab
 
 Populate the "starting_matrix" with your Sudoku puzzle
 Run the script
->> main
+\>\> main
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
